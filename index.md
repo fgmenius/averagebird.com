@@ -4,7 +4,20 @@ You can use the [editor on GitHub](https://github.com/fgmenius/averagebird.com/e
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Curate your own Library
+
+Her dark-washed jeans were bedazzled, but not by her 5-year old daughter, but by artisan crafters.  These jewels were placed in an original pattern meant to highlight her curves specifically as a young, midwestern mamma.  The jeans were boot-cut, as is only appropriate for a woman who wears her tan, tapered boots beneath her lightly worn Zazzlers.  Her snap-button, blue westernwear plaid lay lightly over her camelahair belt and bare her delicate, sunkissed collarbones.
+
+If what we wear tells us about our values, so much more so does a library say about a person.  But in a whorld filled with insecurities ansd a wide variety of purchasable solutions to our worldy problems, advertised solutions int he form of books sit on our shelves, making us the owner of our insecurities instead of our curiousities.  The real question that we shoudld be ansering is, "what do I want to read?"
+
+Most of us don't know.  
+
+As a former smoker, I can tell you that it was hard to just sit and be.  If you've never been an addict, you won't know what I'm saying.  But I'll tell you that I believe that we are all addicts in a way.  Start today proving me wrong.  Don't buy anything for a week.  Do you still feel beautiful, do you still feel smart or strong?  
+
+And you've probably never heard this before.  But let's take a break from buying books, unless you know you want them.  When you want them, buy them for your library, the library that tells you about yourself, helps you to know your own desires and fears better than you would have known before running your hands down their spines.  And, for the sake that is all holy, don't just add any old paperback to your collection that you run across.  Unless it touches your soul, don't pay rent for it.  Curate your own collection.  
+
+
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
